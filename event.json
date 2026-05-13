@@ -1,23 +1,23 @@
 [
   {
-    "name": "Food Fest",
-    "date": "2026-09-23",
-    "time": "10:00 - 14:00",
-    "location": "LRV",
-    "description": "Come down to the LRV and try delicious food from around the world.",
-    "img": "https://raw.githubusercontent.com/Sawa99/my-event-data/main/images/foodfest2.jpg"
-  },
-  {
     "name": "Clubs and Societies",
-    "date": "2026-09-22",
+    "date": "22/09/2026",
     "time": "10:00 - 14:00",
     "location": "Catalyst Hall and Sir Matthew Stanley",
     "description": "Come down to Catalyst and Sir Matthew Stanley to meet our clubs and societies.",
     "img": "https://raw.githubusercontent.com/Sawa99/my-event-data/main/images/clubs2.jpg"
   },
   {
+    "name": "Food Fest",
+    "date": "23/09/2026",
+    "time": "10:00 - 14:00",
+    "location": "LRV",
+    "description": "Come down to the LRV and try delicious food from around the world.",
+    "img": "https://raw.githubusercontent.com/Sawa99/my-event-data/main/images/foodfest2.jpg"
+  },
+  {
     "name": "Computing meet",
-    "date": "2026-09-24",
+    "date": "24/09/2026",
     "time": "12:00 - 15:00",
     "location": "Mellor S520",
     "description": "Join us in Mellor S520 to meet fellow new students and for some games and prizes!",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Freshers Party",
-    "date": "2026-09-25",
+    "date": "25/09/2026",
     "time": "21:00 - 1:00",
     "location": "LRV",
     "description": "Come down to the LRV, enjoy the party and meet other freshers.",
