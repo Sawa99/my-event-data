@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Clubs and Societies",
     "date": "22/09/2026",
     "time": "10:00 - 14:00",
@@ -8,6 +9,7 @@
     "img": "https://raw.githubusercontent.com/Sawa99/my-event-data/main/images/clubs2.jpg"
   },
   {
+    "id": 2,
     "name": "Food Fest",
     "date": "23/09/2026",
     "time": "10:00 - 14:00",
@@ -16,6 +18,7 @@
     "img": "https://raw.githubusercontent.com/Sawa99/my-event-data/main/images/foodfest2.jpg"
   },
   {
+    "id": 3,
     "name": "Computing meet",
     "date": "24/09/2026",
     "time": "12:00 - 15:00",
@@ -24,6 +27,7 @@
     "img": "https://raw.githubusercontent.com/Sawa99/my-event-data/main/images/computing2.jpg"
   },
   {
+    "id": 4,
     "name": "Freshers Party",
     "date": "25/09/2026",
     "time": "21:00 - 1:00",
